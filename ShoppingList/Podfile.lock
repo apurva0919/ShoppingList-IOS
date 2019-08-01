@@ -1,0 +1,20 @@
+PODS:
+  - AWSAPIGateway (2.5.10):
+    - AWSCore (= 2.5.10)
+  - AWSCore (2.5.10)
+
+DEPENDENCIES:
+  - AWSAPIGateway (~> 2.5.3)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AWSAPIGateway
+    - AWSCore
+
+SPEC CHECKSUMS:
+  AWSAPIGateway: 14fd9f66863b2577347d49692e62432b8374b5fb
+  AWSCore: 490c988f6af48a10ea113ff06c53a1ef72a3534b
+
+PODFILE CHECKSUM: 830f1cddd544611ac4ee3922256002f4372c624e
+
+COCOAPODS: 1.6.1
